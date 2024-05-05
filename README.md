@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **sharayumarwadi11@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14D6m90de_qxJMHkjdae0-dUTxSf4ofW2/view?usp=sharing](https://drive.google.com/file/d/1vUC0G09gk-3FJWYh_AUkdny0zq2pMxfT/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/14D6m90de_qxJMHkjdae0-dUTxSf4ofW2/view?usp=sharing](https://drive.google.com/file/d/1hs2JjVcCkC2ubMBYRnfOR8TF0NnvTGm9/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
