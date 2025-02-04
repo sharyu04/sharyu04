@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **GoLang**
 
-- 💬 Ask me about **MERN stack**
+- 💬 Ask me about **Python, CPP, AI & Machine learning, Docker and MERN stack**
 
 - 📫 How to reach me **sharayumarwadi11@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14D6m90de_qxJMHkjdae0-dUTxSf4ofW2/view?usp=sharing](https://drive.google.com/file/d/1hs2JjVcCkC2ubMBYRnfOR8TF0NnvTGm9/view?usp=sharing)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/14D6m90de_qxJMHkjdae0-dUTxSf4ofW2/view?usp=sharing](https://drive.google.com/file/d/1hs2JjVcCkC2ubMBYRnfOR8TF0NnvTGm9/view?usp=sharing)](https://drive.google.com/file/d/1XU2BmoZDfbjoJZPD-V0igxLiZzaHMNGv/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
