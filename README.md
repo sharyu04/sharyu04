@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sharyu Marwadi</h1>
 <h3 align="center">Software Developer @ Josh Software || Ex Business Analyst Intern @ Nuance Communications || Ex SDE Intern @ Fuzen.io
 
-- 🌱 I’m currently learning **GoLang**
+🌱 I’m currently learning **GoLang**
 
-- 💬 Ask me about **Python, CPP, AI & Machine learning, Docker and MERN stack**
+💬 Ask me about **Python, CPP, AI & Machine learning, Docker and MERN stack**
 
-- 📫 How to reach me **sharayumarwadi11@gmail.com**
+📫 How to reach me **sharayumarwadi11@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1XU2BmoZDfbjoJZPD-V0igxLiZzaHMNGv/view?usp=sharing](https://drive.google.com/file/d/1XU2BmoZDfbjoJZPD-V0igxLiZzaHMNGv/view?usp=sharing)
+📄 Know about my experiences [https://drive.google.com/file/d/1XU2BmoZDfbjoJZPD-V0igxLiZzaHMNGv/view?usp=sharing](https://drive.google.com/file/d/1XU2BmoZDfbjoJZPD-V0igxLiZzaHMNGv/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
