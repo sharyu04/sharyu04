@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sharyu Marwadi</h1>
-<h3 align="center">SDE Intern @ Josh Software || Ex Business Analyst Intern @ Nuance Communications || Ex SDE Intern @ Fuzen.io || Rajasthan Police Hackathon Finalist || UNESCO India-Africa (UIA) Hackathon 2022 Finalist || 1st Prize Winner @ SIH 2022 Software Category || CSE @ KKWIEER || Artist</h3>
+<h3 align="center">Software Developer @ Josh Software || Ex Business Analyst Intern @ Nuance Communications || Ex SDE Intern @ Fuzen.io
 
 - 🌱 I’m currently learning **GoLang**
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **sharayumarwadi11@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/14D6m90de_qxJMHkjdae0-dUTxSf4ofW2/view?usp=sharing](https://drive.google.com/file/d/1hs2JjVcCkC2ubMBYRnfOR8TF0NnvTGm9/view?usp=sharing)](https://drive.google.com/file/d/1XU2BmoZDfbjoJZPD-V0igxLiZzaHMNGv/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1XU2BmoZDfbjoJZPD-V0igxLiZzaHMNGv/view?usp=sharing](https://drive.google.com/file/d/1XU2BmoZDfbjoJZPD-V0igxLiZzaHMNGv/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
